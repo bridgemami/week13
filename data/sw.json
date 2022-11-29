@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+   "quote":"\"In my experience, there is no such thing as luck.\"",
+    "author": "Obi-Wan Kenobi",
+    "source":"A New Hope",
+    "friend" : [5],
+    "youtube": "https://youtu.be/oSNNav2eYwk",
+    "youtubeTitle": "Go to the Clip"
+  },
+  {
+    "id": 2,
+    "quote":"\"In My Experience, When You Think You Understand The Force, You Realize Just How Little You Know.\"",
+    "author": "Ahsoka Tano",
+    "source":"Star Wars: Rebels",
+    "friend" : [6],
+    "youtube": "https://youtu.be/v254mgxMmG8",
+    "youtubeTitle": "Go to the Clip"
+  },
+  {
+    "id": 3,
+    "quote":"\"I used to believe that being a good soldier meant doing everything they told you. That's how they engineered us. But we're not droids. We're not programmed. You have to learn to make your own decisions\"",
+    "author": "Captain Rex",
+    "source":"Star Wars: The Clone Wars",
+    "friend": [7],
+    "youtube": "https://youtu.be/hf2YgGikLAE",
+    "youtubeTitle": "Go to the Clip"
+  },
+  {
+    "id": 4,
+   "quote": "\"I Have A Very Bad Feeling About This.\"",
+    "author": "Everyone in Star Wars",
+    "source":"Star Wars Canon",
+    "friend": [8],
+    "youtube": "https://youtu.be/3ogIuFclGE8",
+    "youtubeTitle": "Go to the Clip"
+    }
+]

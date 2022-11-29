@@ -1,0 +1,38 @@
+[
+    {
+      "id": 5,
+     "quote":"\"I can’t go to Germany. I’ve got homework.\"",
+      "author": "Peter Parker",
+      "source":"Captain America: Civil War",
+      "friend": [1],
+      "youtube": "https://youtu.be/AVlww2uJHAc",
+      "youtubeTitle": "Go to the Clip"
+    },
+    {
+      "id": 6,
+      "quote":"\"It is our choices, Harry, that show what we truly are, far more than our abilities.\"",
+      "author": "Albus Dumbledore",
+      "source":"Harry Potter and the Chamber of Secrets",
+      "friend": [2],
+      "youtube": "https://youtu.be/GC7Aqc-h9no",
+      "youtubeTitle": "Go to the Clip"
+    },
+    {
+      "id": 7,
+      "quote":"\"“and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.”\"",
+      "author": "Gandalf",
+      "source":"The Fellowship of the Ring",
+      "friend": [3],
+      "youtube": "https://youtu.be/pjAAC13al9s",
+      "youtubeTitle": "Go to the Clip"
+    },
+    {
+      "id": 8,
+     "quote": "\"It’s a dangerous business, Frodo, going out your door. You step onto the road, and if you don’t keep your feet, there’s no knowing where you might be swept off to.\"",
+      "author": "Bilbo Baggins",
+      "source":"The Fellowship of the Ring",
+      "friend": [4],
+      "youtube": "https://youtu.be/qYoO7tuNqQY",
+      "youtubeTitle": "Go to the Clip"
+      }
+  ]
